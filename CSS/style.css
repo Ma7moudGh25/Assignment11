@@ -1,0 +1,30 @@
+body{
+  background-color: #24353f;
+}
+h1{
+  color: #17a2b8;
+}
+input{
+  background-color: #24353f;
+  color: #7d7c6f;
+  border-color: #7d7c6f;
+}
+button{
+  background-color: #24353f;
+  color: #1899a1;
+  border-color: #1899a1;
+}
+.box{
+  box-shadow: -3px -1px 50px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: -3px -1px 50px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: -3px -1px 50px 0px rgba(0,0,0,0.75);
+}
+a{
+  text-decoration: none;
+}
+.nav-bar{
+  height: 50px;
+  box-shadow: -3px -1px 50px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: -3px -1px 50px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: -3px -1px 50px 0px rgba(0,0,0,0.75);
+}
